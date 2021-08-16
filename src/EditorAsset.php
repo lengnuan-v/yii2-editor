@@ -26,7 +26,7 @@ class EditorAsset extends AssetBundle
     /**
      * @var string
      */
-    public $sourcePath = '@runtime/tmp-extensions/yii2-editor/src/assets';
+    public $sourcePath = '@vendor/lengnuan-v/yii2-editor/src/assets';
 
     /**
      * @var array
