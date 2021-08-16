@@ -10,7 +10,7 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-composer require --prefer-dist lengnuan-v/yii2-editor "*"
+composer require --prefer-dist lengnuan-v/yii2-editor "dev-master"
 ```
 
 or add
